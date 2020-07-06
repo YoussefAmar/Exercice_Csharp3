@@ -1,0 +1,7 @@
+C:\Users\banon\OneDrive\Documents\IS2\POO\Projet\exemple_type_primitif\exemple_type_primitif\bin\Debug\exemple_type_primitif.exe.config
+C:\Users\banon\OneDrive\Documents\IS2\POO\Projet\exemple_type_primitif\exemple_type_primitif\bin\Debug\exemple_type_primitif.exe
+C:\Users\banon\OneDrive\Documents\IS2\POO\Projet\exemple_type_primitif\exemple_type_primitif\bin\Debug\exemple_type_primitif.pdb
+C:\Users\banon\OneDrive\Documents\IS2\POO\Projet\exemple_type_primitif\exemple_type_primitif\obj\Debug\exemple_type_primitif.csprojAssemblyReference.cache
+C:\Users\banon\OneDrive\Documents\IS2\POO\Projet\exemple_type_primitif\exemple_type_primitif\obj\Debug\exemple_type_primitif.csproj.CoreCompileInputs.cache
+C:\Users\banon\OneDrive\Documents\IS2\POO\Projet\exemple_type_primitif\exemple_type_primitif\obj\Debug\exemple_type_primitif.exe
+C:\Users\banon\OneDrive\Documents\IS2\POO\Projet\exemple_type_primitif\exemple_type_primitif\obj\Debug\exemple_type_primitif.pdb

@@ -1,0 +1,7 @@
+C:\Users\banon\OneDrive\Documents\Visual Studio 2017\Projects\Exemple1\Exemple1\bin\Debug\Exemple1.exe.config
+C:\Users\banon\OneDrive\Documents\Visual Studio 2017\Projects\Exemple1\Exemple1\bin\Debug\Exemple1.exe
+C:\Users\banon\OneDrive\Documents\Visual Studio 2017\Projects\Exemple1\Exemple1\bin\Debug\Exemple1.pdb
+C:\Users\banon\OneDrive\Documents\Visual Studio 2017\Projects\Exemple1\Exemple1\obj\Debug\Exemple1.csprojAssemblyReference.cache
+C:\Users\banon\OneDrive\Documents\Visual Studio 2017\Projects\Exemple1\Exemple1\obj\Debug\Exemple1.csproj.CoreCompileInputs.cache
+C:\Users\banon\OneDrive\Documents\Visual Studio 2017\Projects\Exemple1\Exemple1\obj\Debug\Exemple1.exe
+C:\Users\banon\OneDrive\Documents\Visual Studio 2017\Projects\Exemple1\Exemple1\obj\Debug\Exemple1.pdb

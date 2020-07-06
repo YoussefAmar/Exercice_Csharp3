@@ -1,0 +1,7 @@
+C:\Users\banon\OneDrive\Documents\IS2\POO\Projet\Exemple_exception1\Exemple_exception1\bin\Debug\Exemple_exception1.exe.config
+C:\Users\banon\OneDrive\Documents\IS2\POO\Projet\Exemple_exception1\Exemple_exception1\bin\Debug\Exemple_exception1.exe
+C:\Users\banon\OneDrive\Documents\IS2\POO\Projet\Exemple_exception1\Exemple_exception1\bin\Debug\Exemple_exception1.pdb
+C:\Users\banon\OneDrive\Documents\IS2\POO\Projet\Exemple_exception1\Exemple_exception1\obj\Debug\Exemple_exception1.csprojAssemblyReference.cache
+C:\Users\banon\OneDrive\Documents\IS2\POO\Projet\Exemple_exception1\Exemple_exception1\obj\Debug\Exemple_exception1.csproj.CoreCompileInputs.cache
+C:\Users\banon\OneDrive\Documents\IS2\POO\Projet\Exemple_exception1\Exemple_exception1\obj\Debug\Exemple_exception1.exe
+C:\Users\banon\OneDrive\Documents\IS2\POO\Projet\Exemple_exception1\Exemple_exception1\obj\Debug\Exemple_exception1.pdb

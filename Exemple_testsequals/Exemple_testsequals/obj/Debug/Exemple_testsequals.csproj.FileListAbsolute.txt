@@ -1,0 +1,7 @@
+C:\Users\banon\OneDrive\Documents\IS2\POO\Projet\Exemple_testsequals\Exemple_testsequals\bin\Debug\Exemple_testsequals.exe.config
+C:\Users\banon\OneDrive\Documents\IS2\POO\Projet\Exemple_testsequals\Exemple_testsequals\bin\Debug\Exemple_testsequals.exe
+C:\Users\banon\OneDrive\Documents\IS2\POO\Projet\Exemple_testsequals\Exemple_testsequals\bin\Debug\Exemple_testsequals.pdb
+C:\Users\banon\OneDrive\Documents\IS2\POO\Projet\Exemple_testsequals\Exemple_testsequals\obj\Debug\Exemple_testsequals.csprojAssemblyReference.cache
+C:\Users\banon\OneDrive\Documents\IS2\POO\Projet\Exemple_testsequals\Exemple_testsequals\obj\Debug\Exemple_testsequals.csproj.CoreCompileInputs.cache
+C:\Users\banon\OneDrive\Documents\IS2\POO\Projet\Exemple_testsequals\Exemple_testsequals\obj\Debug\Exemple_testsequals.exe
+C:\Users\banon\OneDrive\Documents\IS2\POO\Projet\Exemple_testsequals\Exemple_testsequals\obj\Debug\Exemple_testsequals.pdb
